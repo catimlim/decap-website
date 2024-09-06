@@ -12,3 +12,5 @@ title: Mô phỏng thuật toán sắp xếp
 * Quick sort
 * Selection sort
 * Merge Sort sort
+
+  ![](/img/middleman.svg)
